@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm <strong>Hasib Md Ashikur Rahman</strong></h1>
+<div align="center">
+  <img src="/githubvid.gif" alt="Hi! I am Hasib. Nice to meet you..." />
+</div>
+
 <h3 align="center">A passionate technology enthusiast exploring Computer Vision, Pattern Recognition, and AI applications</h3>
 
 ---
