@@ -11,8 +11,8 @@
 - 🧠 Experienced in building CNN-based Deep Learning models  
 - 🏆 Active in competitive programming and problem solving  
 - 🎨 Hobbyist 3D modeler using Blender  
-- 💡 Love connecting visual data with real-world applications  
-![](https://komarev.com/ghpvc/?username=AR-Hasib)
+- 💡 Love connecting visual data with real-world applications
+  
 ---
 
 ### 🌐 Connect With Me  
@@ -57,6 +57,8 @@
 - 🔧 **Git & GitHub**  
 - 🌀 **Blender (3D Modeling & Rendering)**  
 
+---
+![](https://komarev.com/ghpvc/?username=AR-Hasib)  
 ---
 
 ⭐ **Feel free to explore my repositories and connect!**
