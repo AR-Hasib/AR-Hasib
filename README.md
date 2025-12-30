@@ -12,7 +12,7 @@
 - 🏆 Active in competitive programming and problem solving  
 - 🎨 Hobbyist 3D modeler using Blender  
 - 💡 Love connecting visual data with real-world applications  
-
+![](https://komarev.com/ghpvc/?username=AR-Hasib)
 ---
 
 ### 🌐 Connect With Me  
